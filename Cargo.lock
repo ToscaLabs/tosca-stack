@@ -166,7 +166,7 @@ dependencies = [
 [[package]]
 name = "tosca"
 version = "0.1.0"
-source = "git+https://github.com/ToscaLabs/tosca#29743d055771c841645dea2ec0ef2f85bbecc35b"
+source = "git+https://github.com/ToscaLabs/tosca#2fe45ff2a2b2b4bd8842b2e1a52b3b6d617f8675"
 dependencies = [
  "hashbrown",
  "indexmap",
