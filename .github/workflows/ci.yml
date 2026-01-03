@@ -11,6 +11,8 @@ on:
       - '**.toml'
       - '!**.md'
       - '!LICENSE-MIT'
+    tags:
+      - 'v*.*.*' # Run when a new version is being published
   pull_request:
     branches: [master]
     types: [opened, synchronize]
