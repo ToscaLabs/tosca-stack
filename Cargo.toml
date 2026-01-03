@@ -6,7 +6,7 @@ authors = ["Michele Valsesia <michele.valsesia@toscalabs.org>"]
 description = "A variant of the tosca library crate for stack-oriented devices."
 license = "Apache-2.0 OR MIT"
 repository = "https://github.com/ToscaLabs/tosca-stack"
-keywords = ["iot", "stack-oriented-devices", "library", "devices"]
+keywords = ["iot", "stack-oriented", "library", "devices"]
 rust-version = "1.90"
 readme = "README.md"
 
