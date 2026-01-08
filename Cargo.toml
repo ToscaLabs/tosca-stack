@@ -11,7 +11,7 @@ rust-version = "1.90"
 readme = "README.md"
 
 [dependencies]
-tosca.version = "0.1.0"
+tosca.version = "0.1.1"
 
 serde.version = "1.0"
 serde.default-features = false
