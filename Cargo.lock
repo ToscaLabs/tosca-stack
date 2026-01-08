@@ -159,9 +159,9 @@ dependencies = [
 
 [[package]]
 name = "tosca"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "db82f8bc945c50a3bce36b129249877e849ad3e6f9ce12dcc323b315be474337"
+checksum = "ad7ca3d1dede9f5ecbfbda75eb26aa8d2eb205b6408dcac5e78b10a44db7e78d"
 dependencies = [
  "hashbrown",
  "indexmap",
